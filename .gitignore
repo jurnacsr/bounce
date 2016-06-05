@@ -1,0 +1,16 @@
+.gradle/
+.metadata/
+.recommenders/
+android/.classpath
+android/.project
+android/.settings/org.eclipse.jdt.core.prefs
+android/bin/
+android/libs/
+android/gen/
+core/.classpath
+core/.project
+core/.settings/org.eclipse.jdt.core.prefs
+*.class
+ios/.classpath
+ios/.project
+ios/.settings/org.eclipse.jdt.core.prefs
